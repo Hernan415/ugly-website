@@ -2,3 +2,13 @@ body{
   background-image: url();
   background-repeat:no-repeat;
 }
+button {
+  background-color: #000000;
+  border: none;
+  color: black;
+  padding: 20px 37px;
+  text-align: center;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+}
